@@ -1,0 +1,10 @@
+{
+  "name": "Sistema de Biblioteca",
+  "short_name": "Biblioteca",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16324f",
+  "description": "Control de usuarios, visitas y estadísticas de biblioteca.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
